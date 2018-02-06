@@ -3,7 +3,7 @@ package pgsql
 import (
 	"testing"
 
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 )
 
 func TestCommentService(t *testing.T) {

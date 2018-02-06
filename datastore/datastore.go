@@ -1,6 +1,6 @@
 package datastore
 
-import "github.com/fortytw2/eden/model"
+import "github.com/InfiniteDevelopment/go-get-news/model"
 
 // A Datastore holds all storage services -
 // abstracting like this allows us to not be tied to any single database backend

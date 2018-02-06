@@ -6,12 +6,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/fortytw2/eden/api"
-	"github.com/fortytw2/eden/datastore"
-	"github.com/fortytw2/eden/datastore/pgsql"
-	"github.com/fortytw2/eden/datastore/pgsql/queries"
-	"github.com/fortytw2/eden/datastore/redis"
-	"github.com/fortytw2/eden/web"
+	"github.com/InfiniteDevelopment/go-get-news/api"
+	"github.com/InfiniteDevelopment/go-get-news/datastore"
+	"github.com/InfiniteDevelopment/go-get-news/datastore/pgsql"
+	"github.com/InfiniteDevelopment/go-get-news/datastore/pgsql/queries"
+	"github.com/InfiniteDevelopment/go-get-news/datastore/redis"
+	"github.com/InfiniteDevelopment/go-get-news/web"
 	"github.com/julienschmidt/httprouter"
 
 	// autoload ENV from .env

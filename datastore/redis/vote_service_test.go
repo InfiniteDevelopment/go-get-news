@@ -3,7 +3,7 @@ package redis
 import (
 	"testing"
 
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 )
 
 func TestVoteService(t *testing.T) {

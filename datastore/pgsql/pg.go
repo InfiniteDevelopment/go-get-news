@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/fortytw2/eden/datastore"
+	"github.com/InfiniteDevelopment/go-get-news/datastore"
 	"github.com/jmoiron/sqlx"
 	// import the postgres driver
 	_ "github.com/lib/pq"

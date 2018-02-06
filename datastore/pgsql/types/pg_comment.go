@@ -1,6 +1,6 @@
 package types
 
-import "github.com/fortytw2/eden/model"
+import "github.com/InfiniteDevelopment/go-get-news/model"
 
 // PGComment handles serialization and deserialization of comments from PG
 // using sneaky Disqus style SQL recursive WITH

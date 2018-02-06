@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 	redigo "github.com/garyburd/redigo/redis"
 )
 

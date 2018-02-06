@@ -3,9 +3,9 @@ package pgsql
 import (
 	"log"
 
-	"github.com/fortytw2/eden/datastore/pgsql/queries"
-	"github.com/fortytw2/eden/datastore/pgsql/types"
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/datastore/pgsql/queries"
+	"github.com/InfiniteDevelopment/go-get-news/datastore/pgsql/types"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 	"github.com/jmoiron/sqlx"
 )
 

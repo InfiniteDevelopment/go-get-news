@@ -3,7 +3,7 @@ package types
 import (
 	"time"
 
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 )
 
 // PGBoard functions to wrap the mods array up so it fits into PG

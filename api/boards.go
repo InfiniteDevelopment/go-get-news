@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/fortytw2/eden/api/util"
-	"github.com/fortytw2/eden/datastore"
-	"github.com/fortytw2/eden/model"
+	"github.com/InfiniteDevelopment/go-get-news/api/util"
+	"github.com/InfiniteDevelopment/go-get-news/datastore"
+	"github.com/InfiniteDevelopment/go-get-news/model"
 	"github.com/julienschmidt/httprouter"
 )
 
